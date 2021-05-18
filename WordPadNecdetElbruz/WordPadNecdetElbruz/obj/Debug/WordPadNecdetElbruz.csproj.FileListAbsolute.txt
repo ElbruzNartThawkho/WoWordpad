@@ -1,0 +1,17 @@
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\bin\Debug\WordPadNecdetElbruz.exe.config
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\bin\Debug\WordPadNecdetElbruz.exe
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\bin\Debug\WordPadNecdetElbruz.pdb
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.csprojAssemblyReference.cache
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.Form1.resources
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.Properties.Resources.resources
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.csproj.GenerateResource.cache
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.csproj.CoreCompileInputs.cache
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.exe
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.pdb
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.csproj.CopyComplete
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\bin\Debug\WordPadNecdetElbruz.exe.manifest
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\bin\Debug\WordPadNecdetElbruz.application
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.exe.manifest
+C:\Users\elbru\source\repos\WordPadNecdetElbruz\WordPadNecdetElbruz\obj\Debug\WordPadNecdetElbruz.application
